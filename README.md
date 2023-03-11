@@ -1,0 +1,2 @@
+# KernelSU_oneplus_sm8250-common
+此仓库仅发布本人/协作者构建的kernel，其源代码都来源于GitHub
