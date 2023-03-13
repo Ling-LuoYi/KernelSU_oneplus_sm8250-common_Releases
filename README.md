@@ -2,6 +2,8 @@
 ---
 [本人酷安](http://www.coolapk.com/u/9960587"关注一下")
 ---
+[本人QQ频道](https://pd.qq.com/s/594cl97qe)
+---
 # KernelSU_oneplus_sm8250-common
 Meteoric-KernelSU 支持ColorOS，OxygenOS，及其他AOSP ROM
 
